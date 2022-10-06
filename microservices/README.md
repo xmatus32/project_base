@@ -1,13 +1,8 @@
-# backend
+# Backend
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
+[VSCode](https://code.visualstudio.com/) + [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
 ## Dev Project Setup
 To launch local instance of c# microservice navigate to the `microservices/{microservice}` folder. Run this command to build the project
